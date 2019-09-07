@@ -1,4 +1,4 @@
-### This paper is based on the following assignment.
+### This paper is based on the following finance assignment.
 
 Step 1 - Go to Yahoo Finance and find a stock price that you want to predict. Click on historical data, then download the CSV of that stocks price history https://finance.yahoo.com/quote/AAPL/history?p=AAPL  
 
